@@ -20,10 +20,8 @@ git diff --cached --name-only |  Displays a list of files that are currently sta
 
 For a more detailed description of these commands remember to view the git help. 
 
-    git <command> --help
-
-e.g. 
     git init --help
+
 
 ### Websites
 
