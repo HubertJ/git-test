@@ -25,7 +25,7 @@ Very little code so far...
 
 Maybe the below will help with that :worried:
 
-'''c#
+```c#
 
 using System;
 
@@ -41,7 +41,7 @@ namespace HubertJ
   }
 }
 
-'''
+```
 
 
 ***
